@@ -1,9 +1,49 @@
-body{
+body {
     text-align: center;
-    background-color: rgb(220,0,45);
+    font-family: Verdana;
+    background-color: rgb(242, 248, 162);
 }
 
-h1{
-    font-family:
+pre {
+    font-size: large;
 }
 
+/* 
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+} */
+
+a:link,
+a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover,
+a:active {
+    background-color: red;
+}
