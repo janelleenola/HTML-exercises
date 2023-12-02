@@ -1,0 +1,17 @@
+table {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px inset green;
+    border-radius: 4px;
+    text-align: center;
+    padding: 10px;
+}
+
+tr:nth-child(odd) {
+    background-color: blueviolet;
+}
