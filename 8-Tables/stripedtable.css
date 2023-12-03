@@ -1,0 +1,28 @@
+table {
+    width: 50px;
+}
+
+table,
+th,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+td:nth-child(even),
+th:nth-child(even) {
+    background-color: aqua;
+}
+
+/* Adds a horizontal stripes */
+/* tr:nth-child(even) {
+    background-color: aquamarine;
+} */
+
+/* Hoverable rows */
+/* tr:hover {
+    background-color: blue;
+} */
