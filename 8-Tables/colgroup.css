@@ -1,0 +1,17 @@
+table {
+    width: 50px;
+}
+
+table,
+th,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+tr:hover {
+    background-color: bisque;
+}
