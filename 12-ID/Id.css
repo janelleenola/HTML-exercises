@@ -1,0 +1,17 @@
+#MyHeading {
+    color: white;
+    background-color: blue;
+    margin: auto;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+    background-color: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: black;
+    background-color: none;
+}
