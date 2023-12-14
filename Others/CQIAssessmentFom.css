@@ -1,0 +1,10 @@
+#CQI {
+    margin: auto;
+    border-collapse: collapse;
+}
+
+#CQI,
+td {
+    border: 1px solid black;
+    padding: 10px;
+}
