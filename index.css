@@ -10,7 +10,3 @@ td {
     padding: 20px;
     margin: auto;
 }
-
-tr:hover {
-    background-color: azure;
-}
